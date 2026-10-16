@@ -1,0 +1,29 @@
+{
+  "pregunta": "¿Marina Verde admite perros y cuánto cuesta llevar el mío?",
+  "historial": [
+    {
+      "rol": "user",
+      "contenido": "Del 12 al 19 de junio de 2027, somos 2 adultos, salimos de Madrid y tenemos hasta 1.800 € para Mallorca. ¿Qué oferta tiene la mejor relación calidad-precio?"
+    },
+    {
+      "rol": "assistant",
+      "contenido": "Me quedaría con Marina Verde: equilibra precio, valoración y condiciones. Las tres opciones incluyen vuelos, 7 noches, traslados y cargos para los dos; esta añade desayuno y flexibilidad en el hotel."
+    },
+    {
+      "rol": "user",
+      "contenido": "Con las mismas fechas, los 2 adultos, Mallorca y el presupuesto de 1.800 €, ¿cuál tiene el mejor precio?"
+    },
+    {
+      "rol": "assistant",
+      "contenido": "La opción más económica de los registros es Brisa de Palma: 1.068 € en total. Cumple las fechas y os deja 732 € de margen. La recomiendo si priorizáis el ahorro y aceptáis sus condiciones."
+    },
+    {
+      "rol": "user",
+      "contenido": "Y con las mismas fechas, viajeros, destino y presupuesto, ¿qué oferta es la más completa?"
+    },
+    {
+      "rol": "assistant",
+      "contenido": "Para llevar más cosas resueltas, elegiría Bahía Serena Resort. Es la única de las tres con todo incluido y una maleta facturada de 20 kg por adulto. Su total de 1.764 € sigue dentro de vuestro presupuesto."
+    }
+  ]
+}

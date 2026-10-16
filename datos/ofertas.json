@@ -1,0 +1,80 @@
+[
+  {
+    "origen": "Madrid",
+    "destino": "Mallorca",
+    "fecha_inicio": "2027-06-12",
+    "fecha_fin": "2027-06-19",
+    "adultos": 2,
+    "noches": 7,
+    "moneda": "EUR",
+    "datos_simulados": true,
+    "id": "marina",
+    "nombre": "Hotel Marina Verde",
+    "zona": "Palmanova, Mallorca",
+    "estrellas": 4,
+    "valoracion": 8.8,
+    "numero_valoraciones": 326,
+    "precio_total": 1384,
+    "precio_por_persona": 692.0,
+    "regimen": "desayuno",
+    "cancelacion_hotel_gratuita": true,
+    "equipaje_facturado_kg_por_adulto": 0,
+    "registros": [
+      "BKG-014",
+      "KYK-021",
+      "LM-031"
+    ]
+  },
+  {
+    "origen": "Madrid",
+    "destino": "Mallorca",
+    "fecha_inicio": "2027-06-12",
+    "fecha_fin": "2027-06-19",
+    "adultos": 2,
+    "noches": 7,
+    "moneda": "EUR",
+    "datos_simulados": true,
+    "id": "brisa",
+    "nombre": "Hotel Brisa de Palma",
+    "zona": "Can Pastilla, Mallorca",
+    "estrellas": 3,
+    "valoracion": 7.8,
+    "numero_valoraciones": 614,
+    "precio_total": 1068,
+    "precio_por_persona": 534.0,
+    "regimen": "solo alojamiento",
+    "cancelacion_hotel_gratuita": false,
+    "equipaje_facturado_kg_por_adulto": 0,
+    "registros": [
+      "BKG-015",
+      "KYK-022",
+      "LM-032"
+    ]
+  },
+  {
+    "origen": "Madrid",
+    "destino": "Mallorca",
+    "fecha_inicio": "2027-06-12",
+    "fecha_fin": "2027-06-19",
+    "adultos": 2,
+    "noches": 7,
+    "moneda": "EUR",
+    "datos_simulados": true,
+    "id": "bahia",
+    "nombre": "Bahía Serena Resort",
+    "zona": "Playa de Muro, Mallorca",
+    "estrellas": 4,
+    "valoracion": 9.1,
+    "numero_valoraciones": 842,
+    "precio_total": 1764,
+    "precio_por_persona": 882.0,
+    "regimen": "todo incluido",
+    "cancelacion_hotel_gratuita": true,
+    "equipaje_facturado_kg_por_adulto": 20,
+    "registros": [
+      "BKG-016",
+      "KYK-023",
+      "LM-033"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "paginas": 14,
+  "formato": "A4",
+  "imagenes": 8,
+  "imagenes_cargadas": true,
+  "capturas_sin_cortes": true,
+  "modelo": {
+    "respuesta": "gpt-6-luna",
+    "embeddings": "text-embedding-3-small"
+  },
+  "pdf_bytes": 803447
+}

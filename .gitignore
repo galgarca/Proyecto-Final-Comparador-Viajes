@@ -6,6 +6,7 @@
 # Python
 .venv/
 .uv-cache/
+rag/
 __pycache__/
 *.py[cod]
 .pytest_cache/
