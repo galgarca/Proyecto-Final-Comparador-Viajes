@@ -1,0 +1,35 @@
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Frontend
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Local databases and their sidecar files
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+data/
+
+# Local setup files and logs
+.setup-node/
+.tools/
+.runtime/
+*.log
+.DS_Store
+Thumbs.db
